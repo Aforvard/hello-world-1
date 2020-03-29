@@ -29,7 +29,7 @@ namespace Лаб_3_ДВВ2
             else if (d == 0)
             {
                 x1 = -b / (2 * a);
-                Console.WriteLine("\n X1 = {0}, \t X2 = {0}", x1);
+                Console.WriteLine("\n X1 = X2 = {0}", x1);
             }
 
             else
